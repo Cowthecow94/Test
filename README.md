@@ -8,12 +8,12 @@
 <a href="https://discord.gg/nX6sWSa9HE"><img height="30px" src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><img></a>
 
 # Description
-**UniUB (Universal Unblocker) Is an unblocked games website by me (Jobi#8313) :D**
+**UniUB Is an unbl0cked games website by me (Jobi#8313) :D**
 **Its actively being worked on, with updates at minimum every week :)**
 # Features
-- **200+ Proxies**
+- **200+ Pr0xies**
 - **50+ Games**
-- **10+ Ways to disable extension(s)**
+- **10+ Ways to d1sable extension(s)**
 - **30+ Emulators.**
 - **1 App (More to be added later)**
 # Modding
